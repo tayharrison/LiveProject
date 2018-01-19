@@ -419,6 +419,8 @@ a {
 
 }
 
+/*Edited chat messages for chat bubble effect*/
+
 .current-user-message {
     background-color: #91D0B2;
     color: #FDFDFD;
@@ -469,7 +471,7 @@ a {
         right: -9px;
     }
 
-
+/*end chat bubble effect*/
 
 .date-time {
     background-color: none;
